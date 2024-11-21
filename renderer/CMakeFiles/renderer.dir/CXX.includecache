@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/renderer/color.h
+vec3.h
+/mnt/d/renderer/vec3.h
+iostream
+-
+
+/mnt/d/renderer/ray.h
+vec3.h
+/mnt/d/renderer/vec3.h
+
+/mnt/d/renderer/renderer.cpp
+iostream
+-
+color.h
+/mnt/d/renderer/color.h
+vec3.h
+/mnt/d/renderer/vec3.h
+ray.h
+/mnt/d/renderer/ray.h
+
+/mnt/d/renderer/vec3.h
+cmath
+-
+iostream
+-
+

@@ -1,0 +1,3 @@
+/mnt/d/renderer/CMakeFiles/rebuild_cache.dir
+/mnt/d/renderer/CMakeFiles/renderer.dir
+/mnt/d/renderer/CMakeFiles/edit_cache.dir
